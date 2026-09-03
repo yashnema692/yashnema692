@@ -43,38 +43,84 @@ Expanding practical expertise in **AI/ML, Deep Learning, Generative AI, LLMs, AI
 
 ---
 
+
 ## Technical Skills
 
-<table>
-<tr>
-<th align="left" bgcolor="#e5e7eb">Area</th>
-<th align="left" bgcolor="#e5e7eb">Technologies</th>
-</tr>
-<tr>
-<td bgcolor="#f3f4f6"><strong>Languages</strong></td>
-<td> C++ · JavaScript (ES6+) · TypeScript · SQL </td>
-</tr>
-<tr>
-<td bgcolor="#f3f4f6"><strong>Frontend</strong></td>
-<td> React.js · Angular · HTML5 · CSS3 · Bootstrap · Tailwind CSS · React Router </td>
-</tr>
-<tr>
-<td bgcolor="#f3f4f6"><strong>Backend & Databases</strong></td>
-<td> Node.js · Express.js · MongoDB · MySQL · REST APIs </td>
-</tr>
-<tr>
-<td bgcolor="#ecfdf5"><strong>Authentication</strong></td>
-<td> JWT Authentication · Role-Based Access Control (RBAC) · OAuth </td>
-</tr>
-<tr>
-<td bgcolor="#ecfdf5"><strong>AI / ML</strong></td>
-<td> AI/ML · Deep Learning · Generative AI · LLMs · AI Agents · Hugging Face API </td>
-</tr>
-<tr>
-<td bgcolor="#f3f4f6"><strong>Tools & Platforms</strong></td>
-<td> Git · GitHub · Postman · Docker (Basic) · Render · Vercel · Netlify </td>
-</tr>
-</table>
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1F2937?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-1F2937?style=for-the-badge&logo=angular&logoColor=DD0031" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-1F2937?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Bootstrap-1F2937?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1F2937?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=68A063" />
+  <img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/REST_APIs-1F2937?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+### Authentication & Security
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-1F2937?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/RBAC-1F2937?style=for-the-badge&logoColor=FFFFFF" />
+</p>
+
+### AI & Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML-1F2937?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Deep_Learning-1F2937?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Generative_AI-1F2937?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/LLMs-1F2937?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/AI_Agents-1F2937?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Hugging_Face-1F2937?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/AWS-1F2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</p>
+
+---
+
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yashnema692&show_icons=true&hide_border=true&bg_color=F6F8F7&title_color=1F2937&text_color=4B5563&icon_color=6BAF92"
+    height="180"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=yashnema692&hide_border=true&background=F6F8F7&ring=6BAF92&fire=6BAF92&currStreakLabel=1F2937&sideLabels=4B5563&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280"
+    height="180"
+  />
+</p>
 
 ---
 
